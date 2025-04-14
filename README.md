@@ -1,3 +1,5 @@
+# EXP NO: 212224230028 NAME: ASWIN L
+
 # 3c.CREATION FOR FILE TRANSFER USING TCP SOCKETS
 ## AIM
 To write a python program for creating File Transfer using TCP Sockets Links
@@ -55,7 +57,6 @@ while True:
 
 ```
 ## OUTPUT
-![idle](https://github.com/user-attachments/assets/9be793f4-3f0e-4e08-829a-5ab99c8ddeb9)
 
 ![cmd](https://github.com/user-attachments/assets/d4562063-d4ae-4a49-a49f-177926b6f3ef)
 
